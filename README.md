@@ -1,5 +1,10 @@
 # Bank Loan Analysis using Excel
 
+## Technologies Used
+
+- **Microsoft SQL Server**: For data extraction and manipulation.
+- **Microsoft Excel**: For data storage, initial data preparation, pivot table creation, chart generation, and report preparation.
+  
 ## Introduction
 
 In today's dynamic financial environment, the capacity to effectively monitor and analyze lending activities has emerged as a critical factor for maintaining competitive advantage and building enduring customer trust. As a leader in the financial industry, **Bank of America** acknowledges the pivotal role that data-driven decision-making plays in the management of its loan portfolio. 
