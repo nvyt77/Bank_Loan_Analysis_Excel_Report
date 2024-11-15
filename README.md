@@ -15,7 +15,7 @@ To thrive in this landscape, it is essential to develop tools and resources that
 
 The objective of the **Bank Loan Report** project is to develop a comprehensive and visually engaging report that systematically monitors and assesses the bank's lending activities and performance. This report will track key metrics, including total loan applications, funded amounts, repayment statistics, and borrower assessments, providing stakeholders with invaluable insights to inform data-driven decision-making and enhance lending strategies.
 
-By integrating critical loan-related metrics and analyzing their temporal changes, the report will facilitate a deeper understanding of the loan portfolio's health and highlight emerging trends that can shape our lending strategies. In addition, we aim to create a detailed **Details Dashboard** that consolidates essential loan information, offering users a holistic view of vital metrics and data points. This dashboard will streamline access to crucial information, empowering stakeholders to make informed lending decisions and manage the bank’s lending operations effectively.
+By integrating critical loan-related metrics and analyzing their temporal changes, the report will facilitate a deeper understanding of the loan portfolio's health and highlight emerging trends that can shape the lending strategies. In addition, an aim to create a detailed **Details Dashboard** that consolidates essential loan information, offering users a holistic view of vital metrics and data points. This dashboard will streamline access to crucial information, empowering stakeholders to make informed lending decisions and manage the bank’s lending operations effectively.
 
 ## Problem Statement
 
